@@ -6,6 +6,7 @@
 <!-- Pagina de inicio de mi pagina web que funcione como SPA -->
 <!-- en esta voy a aplicar cosas sencillas y agregare algo de bootstrap como practica  -->
 <!-- asdfas -->
+<!-- asdfas -->
 
 <head>
 <link rel="stylesheet" href="css/bootstrap-grid.css">
